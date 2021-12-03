@@ -1,0 +1,169 @@
+{
+    "attendance_details": [
+        {
+            "date": "23",
+            "details": [
+                {
+                    "id": "100",
+                    "name": "Siddharth",
+                    "attendance": "p"
+                },
+                {
+                    "id": "101",
+                    "name": "Vivek",
+                    "attendance": "a"
+                },
+                {
+                    "id": "102",
+                    "name": "Hari",
+                    "attendance": "p"
+                },
+                {
+                    "id": "103",
+                    "name": "Akshay",
+                    "attendance": "p"
+                },
+                {
+                    "id": "104",
+                    "name": "Abhi",
+                    "attendance": "p"
+                },
+                {
+                    "id": "105",
+                    "name": "Amal",
+                    "attendance": "a"
+                }
+            ]
+        },
+        {
+            "date": "20-10-21",
+            "details": [
+                {
+                    "id": "100",
+                    "name": "Siddharth",
+                    "attendance": "p"
+                },
+                {
+                    "id": "101",
+                    "name": "Vivek",
+                    "attendance": "p"
+                },
+                {
+                    "id": "102",
+                    "name": "Hari",
+                    "attendance": "p"
+                },
+                {
+                    "id": "103",
+                    "name": "Akshay",
+                    "attendance": "a"
+                },
+                {
+                    "id": "104",
+                    "name": "Abhi",
+                    "attendance": "a"
+                },
+                {
+                    "id": "105",
+                    "name": "Amal",
+                    "attendance": "a"
+                }
+            ]
+        },
+        {
+            "date": "22-10-21",
+            "details": [
+                {
+                    "id": "100",
+                    "name": "Siddharth",
+                    "attendance": "p"
+                },
+                {
+                    "id": "101",
+                    "name": "Vivek",
+                    "attendance": "p"
+                },
+                {
+                    "id": "102",
+                    "name": "Hari",
+                    "attendance": "p"
+                },
+                {
+                    "id": "103",
+                    "name": "Akshay",
+                    "attendance": "p"
+                },
+                {
+                    "id": "104",
+                    "name": "Abhi",
+                    "attendance": "p"
+                }
+            ]
+        },
+        {
+            "date": "25-10-21",
+            "details": [
+                {
+                    "id": "100",
+                    "name": "Siddharth",
+                    "attendance": "p"
+                },
+                {
+                    "id": "101",
+                    "name": "Vivek",
+                    "attendance": "a"
+                },
+                {
+                    "id": "102",
+                    "name": "Hari",
+                    "attendance": ""
+                },
+                {
+                    "id": "103",
+                    "name": "Akshay",
+                    "attendance": "a"
+                },
+                {
+                    "id": "104",
+                    "name": "Abhi",
+                    "attendance": "p"
+                },
+                {
+                    "id": "105",
+                    "name": "Amal",
+                    "attendance": "a"
+                }
+            ]
+        },
+        {
+            "date": "23",
+            "details": [
+                {
+                    "id": "100",
+                    "name": "Siddharth",
+                    "attendance": "a"
+                },
+                {
+                    "id": "102",
+                    "name": "Hari",
+                    "attendance": "a"
+                },
+                {
+                    "id": "103",
+                    "name": "Akshay",
+                    "attendance": "a"
+                },
+                {
+                    "id": "104",
+                    "name": "Abhi",
+                    "attendance": "aa"
+                },
+                {
+                    "id": "111",
+                    "name": "sudhi",
+                    "attendance": "a"
+                }
+            ]
+        }
+    ]
+}
